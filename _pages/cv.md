@@ -15,9 +15,7 @@ redirect_from:
 
 * **Ph.D. in Electronic Information (Artificial Intelligence)**, School of Computer Science and Engineering, Shanghai Jiao Tong University, 2025 – 2030 (expected)
   * Advisor: Prof. Pengfei Liu
-  * GPA: 3.69/4.0
 * **B.S. in E-Commerce and Law**, International School, Beijing University of Posts and Telecommunications, 2021 – 2025
-  * GPA: 91.7/100 (3.8/4.0), Rank: 1/165
   * National Scholarship (2021); University Second-Class Scholarship and Merit Student (2022)
 
 ## Work Experience
