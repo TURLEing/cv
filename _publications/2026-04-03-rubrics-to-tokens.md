@@ -2,6 +2,7 @@
 title: "Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks"
 collection: publications
 category: conferences
+selected: true
 permalink: /publication/rubrics-to-tokens
 excerpt: "RTT projects response-level rubric scores into fine-grained token-level rewards via a Token-Level Relevance Discriminator, with RTT-GRPO jointly optimizing response- and token-level advantages."
 date: 2026-04-03
