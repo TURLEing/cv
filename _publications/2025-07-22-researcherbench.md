@@ -5,7 +5,7 @@ category: conferences
 selected: true
 permalink: /publication/researcherbench
 excerpt: "The first benchmark for Deep AI Research Systems: 65 expert-selected questions from authentic research settings spanning 35 AI subjects, with rubric-based insight evaluation and citation-faithfulness assessment."
-date: 2025-07-22
+date: 2026-07-15
 venue: "Conference on Language Modeling (COLM)"
 paperurl: "https://arxiv.org/abs/2507.16280"
 citation: "Xu, T., Lu, P., Ye, L., Hu, X., &amp; Liu, P. (2025). &quot;ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry.&quot; Accepted at COLM 2026. arXiv:2507.16280."

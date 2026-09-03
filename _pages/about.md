@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Tianze Xu (“徐天泽” in Chinese)**,  a second-year Ph.D. student at Shanghai Jiao Tong University, advised by [Prof. Pengfei Liu](https://plms.ai/). My research interests currently focuses on **fine-grained post-training** (Token-level reward assignment, On-Policy Distillation, etc.) and  LLM evaluation. I once interned at Alibaba (Taobao & Tmall Group) on agentic reinforcement learning.
+I’m **Tianze Xu (“徐天泽” in Chinese)**,  a second-year Ph.D. student at Shanghai Jiao Tong University, advised by [Prof. Pengfei Liu](https://plms.ai/). My research interests currently focus on **fine-grained post-training** (Token-level reward assignment, On-Policy Distillation, etc.) and  LLM evaluation. 
+
+Previously, I interned at **Alibaba (Taobao & Tmall Group)** on agentic reinforcement learning, mentored by [Yanzhao Zheng](https://scholar.google.com/citations?user=kEyEcCQAAAAJ).
 
 ## News
 
-- **Jul 2026**: Two papers accepted by COLM 2026 — *Rubrics to Tokens* and *ResearcherBench*.
+- **Jul 2026**: 🎉🎉 Four papers have been accepted by COLM 2026!
 - **Apr 2026**: *Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks* released on [arXiv](https://arxiv.org/abs/2604.02795).
 - **Jul 2025**: *ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry* (co-first author) released on [arXiv](https://arxiv.org/abs/2507.16280).
-- **2025**: Started my Ph.D. at Shanghai Jiao Tong University, advised by Prof. Pengfei Liu.
+- **Oct 2024**: Started my Ph.D. at Shanghai Jiao Tong University, advised by Prof. Pengfei Liu.
 
 ## Publications
 
