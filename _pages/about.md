@@ -13,6 +13,7 @@ Previously, I interned at **Alibaba (Taobao & Tmall Group)** on agentic reinforc
 
 ## News
 
+- **Sep 2026**: *MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation* released on [arXiv](https://arxiv.org/abs/2609.30837). [Code](https://github.com/TURLEing/MOPD-Router) is available.
 - **Jul 2026**: 🎉🎉 Four papers have been accepted by COLM 2026!
 - **Apr 2026**: *Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks* released on [arXiv](https://arxiv.org/abs/2604.02795).
 - **Jul 2025**: *ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry* (co-first author) released on [arXiv](https://arxiv.org/abs/2507.16280).
@@ -69,5 +70,4 @@ function showPubs(which, btn) {
 ## Education
 
 - **Ph.D. in Electronic Information (Artificial Intelligence)**, School of Computer Science and Engineering, Shanghai Jiao Tong University, 2025 – 2030 (expected)
-  - Advisor: [Prof. Pengfei Liu](https://plms.ai/)
 - **B.S.**, Beijing University of Posts and Telecommunications, 2021 – 2025
