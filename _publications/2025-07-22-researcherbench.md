@@ -1,5 +1,6 @@
 ---
 title: "ResearcherBench: Evaluating Deep AI Research Systems on the Frontiers of Scientific Inquiry"
+authors: ["Tianze Xu", "Pengrui Lu", "Lyumanshan Ye", "Xiangkun Hu", "Pengfei Liu"]
 collection: publications
 category: conferences
 selected: true

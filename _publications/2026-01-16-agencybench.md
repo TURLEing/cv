@@ -1,5 +1,6 @@
 ---
 title: "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"
+authors: ["Keyu Li", "Junhao Shi", "Yang Xiao", "Mohan Jiang", "Jie Sun", "Yunze Wu", "Dayuan Fu", "Shijie Xia", "Xiaojie Cai", "Tianze Xu", "Weiye Si", "Wenjie Li", "Dequan Wang", "Pengfei Liu"]
 collection: publications
 category: conferences
 permalink: /publication/agencybench/

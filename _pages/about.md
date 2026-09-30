@@ -27,10 +27,11 @@ Previously, I interned at **Alibaba (Taobao & Tmall Group)** on agentic reinforc
 .pub-tabs { display: flex; gap: 2px; border-bottom: 1px solid #e1e4e9; margin-bottom: 14px; }
 .pub-tab { background: none; border: none; border-bottom: 2px solid transparent; padding: 6px 14px; cursor: pointer; font-size: 0.95em; color: #7a8288; font-family: inherit; }
 .pub-tab.active { color: var(--global-theme-color, #3273dc); border-bottom-color: var(--global-theme-color, #3273dc); font-weight: 600; }
-.pub-item { margin-bottom: 12px; }
+.pub-item { margin-bottom: 16px; }
 .pub-title { font-size: 0.9em; font-weight: 600; color: var(--global-text-color, #494e52); text-decoration: none; }
 .pub-title:hover { color: var(--global-theme-color, #3273dc); text-decoration: underline; }
-.pub-meta { display: block; font-size: 0.85em; color: #7a8288; margin-top: 2px; }
+.pub-authors { display: block; font-size: 0.85em; margin-top: 3px; }
+.pub-meta { display: block; font-size: 0.85em; color: #7a8288; margin-top: 2px; font-style: italic; }
 </style>
 
 <div class="pub-tabs">
@@ -38,23 +39,18 @@ Previously, I interned at **Alibaba (Taobao & Tmall Group)** on agentic reinforc
   <button type="button" class="pub-tab" onclick="showPubs('all', this)">All Pubs</button>
 </div>
 
-{% assign selected_pubs = site.publications reversed | where: "selected", true %}
+{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
+{% assign selected_pubs = sorted_pubs | where: "selected", true %}
 
 <div id="pubs-selected">
 {% for post in selected_pubs %}
-  <div class="pub-item">
-    <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-    <span class="pub-meta">{{ post.venue }}, {{ post.date | date: "%Y" }}</span>
-  </div>
+  {% include publication-list-item.html %}
 {% endfor %}
 </div>
 
 <div id="pubs-all" style="display: none;">
-{% for post in site.publications reversed %}
-  <div class="pub-item">
-    <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-    <span class="pub-meta">{{ post.venue }}, {{ post.date | date: "%Y" }}</span>
-  </div>
+{% for post in sorted_pubs %}
+  {% include publication-list-item.html %}
 {% endfor %}
 </div>
 

@@ -1,5 +1,6 @@
 ---
 title: "Interaction as Intelligence: A Transparent, Fine-Grained Multi-Agent Deep Research System for Human-Agent Collaboration"
+authors: ["Lyumanshan Ye", "Xiaojie Cai", "Xinkai Wang", "Junfei Wang", "Yuxiang Zheng", "Xiangkun Hu", "Tianze Xu", "Dayuan Fu", "Pengrui Lu", "Yang Nan", "Jiadi Su", "Yunze Wu", "Pengfei Liu"]
 collection: publications
 category: conferences
 permalink: /publication/interaction-as-intelligence-chi/

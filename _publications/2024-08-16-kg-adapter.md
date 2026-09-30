@@ -1,5 +1,6 @@
 ---
 title: "KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning"
+authors: ["Shiyu Tian", "Yangyang Luo", "Tianze Xu", "Caixia Yuan", "Huixing Jiang", "Chen Wei", "Xiaojie Wang"]
 collection: publications
 category: conferences
 permalink: /publication/kg-adapter/

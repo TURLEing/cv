@@ -1,5 +1,6 @@
 ---
 title: "MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation"
+authors: ["Tianze Xu", "Yanzhao Zheng", "Zhentao Zhang", "Yuanqiang Yu", "Chao Ma", "Jihuai Zhu", "Lelun Wu", "Lyumanshan Ye", "Pengfei Liu", "Baohua Dong", "Hangcheng Zhu", "Ruohui Huang", "Gang Yu"]
 collection: publications
 category: conferences
 selected: true

@@ -1,5 +1,6 @@
 ---
 title: "Rubrics to Tokens: Bridging Response-level Rubrics and Token-level Rewards in Instruction Following Tasks"
+authors: ["Tianze Xu", "Yanzhao Zheng", "Pengrui Lu", "Lyumanshan Ye", "Yong Wu", "Zhentao Zhang", "Yuanqiang Yu", "Chao Ma", "Jihuai Zhu", "Pengfei Liu", "Baohua Dong", "Hangcheng Zhu", "Ruohui Huang", "Gang Yu"]
 collection: publications
 category: conferences
 selected: true

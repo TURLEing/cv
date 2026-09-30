@@ -1,0 +1,5 @@
+<div class="pub-item">
+  <a class="pub-title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  <span class="pub-authors">{% assign author_count = post.authors.size %}{% assign last_author_index = author_count | minus: 1 %}{% assign last_shown_index = -1 %}{% for author in post.authors %}{% assign author_index = forloop.index0 %}{% if author_count <= 8 or author_index < 3 or author == "Tianze Xu" or author_index == last_author_index %}{% if last_shown_index >= 0 %}, {% endif %}{% assign next_index = last_shown_index | plus: 1 %}{% if author_index > next_index %}…, {% endif %}{% if author == "Tianze Xu" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% assign last_shown_index = author_index %}{% endif %}{% endfor %}</span>
+  <span class="pub-meta">{{ post.venue }}, {{ post.date | date: "%Y" }}</span>
+</div>

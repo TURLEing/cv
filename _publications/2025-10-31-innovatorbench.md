@@ -1,5 +1,6 @@
 ---
 title: "InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research"
+authors: ["Yunze Wu", "Dayuan Fu", "Weiye Si", "Zhen Huang", "Mohan Jiang", "Keyu Li", "Shijie Xia", "Jie Sun", "Tianze Xu", "Xiangkun Hu", "Pengrui Lu", "Xiaojie Cai", "Lyumanshan Ye", "Wenhong Zhu", "Yang Xiao", "Pengfei Liu"]
 collection: publications
 category: conferences
 permalink: /publication/innovatorbench/

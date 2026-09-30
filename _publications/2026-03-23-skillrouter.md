@@ -1,5 +1,6 @@
 ---
 title: "SkillRouter: Skill Routing for LLM Agents at Scale"
+authors: ["Yanzhao Zheng", "Zhentao Zhang", "Chao Ma", "Yuanqiang Yu", "Jihuai Zhu", "Yong Wu", "Tianze Xu", "Baohua Dong", "Hangcheng Zhu", "Ruohui Huang", "Gang Yu"]
 collection: publications
 category: conferences
 permalink: /publication/skillrouter/

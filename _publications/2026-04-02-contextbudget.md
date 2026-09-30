@@ -1,5 +1,6 @@
 ---
 title: "ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents"
+authors: ["Yong Wu", "Yanzhao Zheng", "Tianze Xu", "Zhentao Zhang", "Yuanqiang Yu", "Jihuai Zhu", "Chao Ma", "Binbin Lin", "Baohua Dong", "Hangcheng Zhu", "Ruohui Huang", "Gang Yu"]
 collection: publications
 category: conferences
 permalink: /publication/contextbudget/

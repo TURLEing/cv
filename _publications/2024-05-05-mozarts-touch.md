@@ -1,5 +1,6 @@
 ---
 title: "Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models"
+authors: ["Jiajun Li", "Tianze Xu", "Xuesong Chen", "Xinrui Yao", "Shuchang Liu"]
 collection: publications
 category: conferences
 permalink: /publication/mozarts-touch/
